@@ -6,7 +6,7 @@
     <div class="notification">
       <div class="emoji">🚀</div>
       <div>
-        <p class="weight-strong">This is your demo app.</p>
+        <p class="weight-strong">This is your demo app. Hej</p>
         <p class="small">Each branch gets its own database. Check it out and then head back to Runnable.</p>
       </div>
     </div>
